@@ -2,6 +2,7 @@
 #define _COLOR_H
 
 #define RESET_COLOR         "\033[0m"
+#define COLOR_RESET         "\033[0m"
 
 #define BLACK_FG            "\033[30m"
 #define RED_FG              "\033[31m"
